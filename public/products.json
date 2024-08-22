@@ -1,0 +1,180 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "price": 10.99,
+            "image": "https://i.pinimg.com/564x/4e/d8/4d/4ed84df901474623ee704a2937e60163.jpg",
+            "description": "A classic novel set in the 1920s, exploring themes of wealth, love, and the American Dream.",
+            "category": "Fiction"
+        },
+        {
+            "id": 21,
+            "name": "Ikigai: The Japanese Secret",
+            "price": 13.99,
+            "image": "https://i.pinimg.com/564x/50/41/84/5041846eb283ce4f89336417b3b4e516.jpg",
+            "description": "A book that explores the science behind why habits exist and how they can be changed.",
+            "category": "Psychology"
+        },
+        {
+            "id": 22,
+            "name": "The Power of Now",
+            "price": 14.99,
+            "image": "https://i.pinimg.com/564x/e6/85/62/e68562bd294d714ff3c100cc1922b75a.jpg",
+            "description": "A book that explores the science behind why habits exist and how they can be changed.",
+            "category": "Psychology"
+        },
+        {
+            "id": 17,
+            "name": "Atomic Habits",
+            "price": 14.99,
+            "image": "https://i.pinimg.com/564x/30/d7/59/30d759f5af80b6d22d129751273a26fc.jpg",
+            "description": "A book that explores the science behind why habits exist and how they can be changed.",
+            "category": "Psychology"
+        },
+        {
+            "id": 15,
+            "name": "The Subtle Art of Not Giving a F*ck",
+            "price": 14.99,
+            "image": "https://i.pinimg.com/564x/3a/dc/ff/3adcff7a670cde2ea2bb8ceadb6cceac.jpg",
+            "description": "A book that explores the science behind why habits exist and how they can be changed.",
+            "category": "Psychology"
+        },
+        {
+            "id": 2,
+            "name": "To Kill a Mockingbird",
+            "price": 12.99,
+            "image": "https://i.pinimg.com/564x/c1/0e/fd/c10efd63f74a00502ce5afafb20d6dcd.jpg",
+            "description": "A novel about racial injustice in the Deep South, seen through the eyes of a young girl.",
+            "category": "Fiction"
+        },
+        {
+            "id": 3,
+            "name": "1984",
+            "price": 14.99,
+            "image": "https://i.pinimg.com/564x/43/75/b7/4375b7d9bf24b88aa53744b417227485.jpg",
+            "description": "A dystopian novel that explores the dangers of totalitarianism and extreme political ideology.",
+            "category": "Science Fiction"
+        },
+        {
+            "id": 4,
+            "name": "Pride and Prejudice",
+            "price": 9.99,
+            "image": "https://i.pinimg.com/564x/82/77/ab/8277ab1138d98021f0214c1fbf8cc387.jpg",
+            "description": "A romantic novel that delves into issues of class, marriage, and social expectations in 19th century England.",
+            "category": "Romance"
+        },
+        {
+            "id": 5,
+            "name": "The Catcher in the Rye",
+            "price": 11.99,
+            "image": "https://i.pinimg.com/564x/4b/be/9c/4bbe9c695bd2c2005847108120df0612.jpg",
+            "description": "A novel about teenage rebellion and angst, narrated by the disillusioned Holden Caulfield.",
+            "category": "Fiction"
+        },
+        {
+            "id": 6,
+            "name": "The Hobbit",
+            "price": 15.99,
+            "image": "https://i.pinimg.com/564x/ec/92/b5/ec92b5f8b9e8380b93e5a2f4598cf65c.jpg",
+            "description": "A fantasy novel about the adventures of Bilbo Baggins, a hobbit who embarks on a quest to win a share of treasure guarded by a dragon.",
+            "category": "Fantasy"
+        },
+        {
+            "id": 7,
+            "name": "Moby Dick",
+            "price": 13.99,
+            "image": "https://i.pinimg.com/564x/78/f1/a9/78f1a9d67c5f90ecae81977ae3b0ef4f.jpg",
+            "description": "A novel about the obsessive quest of Captain Ahab for revenge against the white whale Moby Dick.",
+            "category": "Adventure"
+        },
+        {
+            "id": 8,
+            "name": "The Alchemist",
+            "price": 10.99,
+            "image": "https://i.pinimg.com/564x/49/7f/22/497f22527c6c0b20fb0bbe814ab918b2.jpg",
+            "description": "A philosophical novel about a shepherd's journey to fulfill his personal legend.",
+            "category": "Philosophy"
+        },
+        {
+            "id": 9,
+            "name": "Brave New World",
+            "price": 13.99,
+            "image": "https://i.pinimg.com/564x/e1/e2/73/e1e27300b1fe41a7aec53fbf5b8a10c5.jpg",
+            "description": "A dystopian novel exploring a future society that values efficiency and conformity over individuality.",
+            "category": "Science Fiction"
+        },
+        {
+            "id": 10,
+            "name": "War and Peace",
+            "price": 19.99,
+            "image": "https://i.pinimg.com/564x/57/85/df/5785df9549da15ebd04b0b1f79177818.jpg",
+            "description": "A historical novel that chronicles the French invasion of Russia and the impact on five aristocratic families.",
+            "category": "Historical"
+        },
+        {
+            "id": 11,
+            "name": "The Road",
+            "price": 14.99,
+            "image": "https://i.pinimg.com/564x/77/4e/87/774e8782cf60d2de4faafb63c87271eb.jpg",
+            "description": "A post-apocalyptic novel about a father and son's journey through a desolate landscape.",
+            "category": "Fiction"
+        },
+        {
+            "id": 12,
+            "name": "The Art of War",
+            "price": 8.99,
+            "image": "https://i.pinimg.com/564x/54/a9/f6/54a9f6d4dcb117430de5184bc9826580.jpg",
+            "description": "An ancient Chinese military treatise that has influenced Eastern and Western military thinking, business tactics, legal strategy, and more.",
+            "category": "Strategy"
+        },
+        {
+            "id": 13,
+            "name": "Sapiens: A Brief History of Humankind",
+            "price": 18.99,
+            "image": "https://i.pinimg.com/564x/a9/e2/13/a9e213cf1668db1dec8ab175e14ce037.jpg",
+            "description": "A book that explores the history of humankind from the Stone Age to the modern age.",
+            "category": "History"
+        },
+        {
+            "id": 14,
+            "name": "The Lean Startup",
+            "price": 16.99,
+            "image": "https://i.pinimg.com/736x/00/36/e5/0036e53d04181bf47aaad74f56dcf21a.jpg",
+            "description": "A book on how today's entrepreneurs use continuous innovation to create radically successful businesses.",
+            "category": "Business"
+        },
+        {
+            "id": 16,
+            "name": "Thinking, Fast and Slow",
+            "price": 17.99,
+            "image": "https://i.pinimg.com/564x/c8/c5/b1/c8c5b17ad3d9e8d21cdf0fbbab119478.jpg",
+            "description": "A book that delves into the two systems of thought that drive our decisions: the fast, intuitive, and emotional system, and the slow, deliberate, and logical system.",
+            "category": "Psychology"
+        },
+        {
+            "id": 18,
+            "name": "Educated",
+            "price": 15.99,
+            "image": "https://i.pinimg.com/564x/00/0c/4a/000c4ad73f0f7930c1240dba7f2f50d0.jpg",
+            "description": "A memoir about a young woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+            "category": "Memoir"
+        },
+        {
+            "id": 19,
+            "name": "The Four Agreements",
+            "price": 9.99,
+            "image": "https://i.pinimg.com/564x/83/0f/60/830f60a31993373f57451b969c2bc607.jpg",
+            "description": "A practical guide to personal freedom, outlining four agreements to practice for personal transformation.",
+            "category": "Self-Help"
+        },
+        {
+            "id": 20,
+            "name": "The Power of Habit",
+            "price": 13.99,
+            "image": "https://i.pinimg.com/564x/3f/ec/19/3fec19e446ecc983fba993e638567c4a.jpg",
+            "description": "A book that explores the science behind why habits exist and how they can be changed.",
+            "category": "Psychology"
+        }
+    ]
+}
