@@ -3,7 +3,7 @@ import { addToCart, decrementQuantity, removeFromCart } from '@/features/cart/ca
 import { IoBagCheckOutline } from "react-icons/io5";
 import { useDispatch, useSelector } from 'react-redux';
 
-const page = () => {
+const Page = () => {
 
     // const handleQuantityChange = (id, quantity) => {
     //     setItems(items.map(item =>
@@ -50,8 +50,9 @@ const page = () => {
                               <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">{item.name}</td>
                               <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
                                   {/* <input type="number" min="1" value={item.quantity} onChange={(e) => handleQuantityChange(item.id, parseInt(e.target.value))} className="border border-gray-300 rounded-md p-1 w-16 text-center" /> */}
-                                  <button onClick={() => incrementToCart(item)} className="text-blue-500 hover:text-blue-700 text-xl">+</button>
                                   <button onClick={() => decrementfromCart(item.id)} className="text-red-500 hover:text-red-700 text-xl">-</button>
+                                  <span className='px-3 border text-lg'>{item.quantity}</span>
+                                  <button onClick={() => incrementToCart(item)} className="text-blue-500 hover:text-blue-700 text-xl">+</button>
                               </td>
                               <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">${item.price}</td>
                               <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">${item.price * item.quantity}</td>
@@ -81,4 +82,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

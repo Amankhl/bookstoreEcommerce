@@ -16,7 +16,7 @@ const Header = () => {
                 <h1 className='text-xl'>Store</h1>
                 <ul className='flex gap-7'>
                     <li><Link href="/">Home</Link></li>
-                    <li><Link href="#">Shop</Link></li>
+                    <li><Link href="/shop">Shop</Link></li>
                     <li><Link href="#">About</Link></li>
                     <li><Link href="#">Contact</Link></li>
                 </ul>
